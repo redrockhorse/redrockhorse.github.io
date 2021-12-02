@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 理则顿悟，乘悟并消；事资渐修，因次第尽
 ---
 ## 大马的技术博客首页
